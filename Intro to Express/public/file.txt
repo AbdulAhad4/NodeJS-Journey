@@ -1,0 +1,1 @@
+This is a public text file which is being shared via express static file sharing.
